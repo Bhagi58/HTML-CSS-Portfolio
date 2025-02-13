@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .all{
+    display: flex;
+    align-items: center;
+    text-align: center;
+   justify-content: space-between;
+   height: 4rem;
+   width: 100vw;
+   margin: 0 auto;
+   padding: 1rem 2rem;
+   position: sticky;
+   top: 0;
+   z-index: 3;
+   background-color: black;
+  }
+  nav{
+ 
+ 
+  
+
+    border-left: none;
+    border-right: none;
+  }
+  nav ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  nav ul div.items{
+    padding: 0 25px;
+    display: inline-flex;
+  }
+  nav ul div.items a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    padding: 0 12px;
+  }
+  nav ul div.items a:hover{
+    color: cyan;
+  }
+
+
+
+/* this the secong line */
+
+.nav-2{
+ 
+ display: flex;
+ align-items: center;
+ text-align: center;
+justify-content: center;
+ border-radius: 1.5rem 1.5rem 1.5rem 1.5rem;
+  height: 2.5rem;
+  width: 10rem;
+  background-color: white;
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+nav ul div.items-2{
+ 
+  display: inline-flex;
+}
+nav ul div.items-2 a{
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+
+}
+nav ul div.items-2 a:hover{
+  color: cyan;
+}
+
+/* image time */
+  
+.image-anime{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3;
+  width: 7rem;
+
+
+  
+}
+
+.anime{
+ height: 50px;
+ width: 100px;
+}

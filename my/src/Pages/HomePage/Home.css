@@ -1,0 +1,11 @@
+
+
+.myimg{
+    background: #222222;
+    /* background-image: url(myimg.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 50rem;
+    width: 100%;
+  }
