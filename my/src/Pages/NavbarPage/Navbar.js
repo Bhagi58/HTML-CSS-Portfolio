@@ -1,6 +1,6 @@
 
 import './Navbar.css';
-import Anime from '../NavbarPage/Anime.jpg'
+// import Anime from '../NavbarPage/Anime.jpg'
 
 export default function Navbar() {
    
@@ -10,7 +10,7 @@ export default function Navbar() {
         <header class='all'>
 
          <div className='image-anime'>
-          <img src={Anime} alt='' className='anime'></img>            
+          {/* <img src={Anime} alt='' className='anime'></img>             */}
          </div>
          <nav>
          <ul>
