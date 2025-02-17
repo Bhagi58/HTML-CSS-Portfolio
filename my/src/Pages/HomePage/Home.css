@@ -1,11 +1,51 @@
+.home{
+  background-color: #080808;
+  height: 90%;
+  width: 100%;
+}
+.w-m-s{
+  display: flex;
+  align-items: center;
+  text-align: center;
+ justify-content: space-around;
 
 
+}
+.name{
+  color: white;
+}
 .myimg{
-    background: #222222;
-    /* background-image: url(myimg.jpg); */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 50rem;
+  width: 90vh;
+  height: 90vh;
+
+  }
+  .Myimg{
+    height: 100%;
     width: 100%;
   }
+ .f-1{
+  font-size: 1rem;
+  color: white;
+  font-weight: bold;
+ }
+ .f-2{
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+ }
+ .letter{
+ display: flex;
+ align-items: center;
+ text-align: center;
+ gap: 0.5rem;
+ }
+ .f-3{
+  font-size: 2rem;
+  color: red;
+  font-weight: bold;
+ }
+ .f-4{
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+ }

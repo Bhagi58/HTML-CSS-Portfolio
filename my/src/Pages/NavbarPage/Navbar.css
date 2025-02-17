@@ -11,13 +11,13 @@
     text-align: center;
    justify-content: space-between;
    height: 4rem;
-   width: 100vw;
+   width: 100%;
    margin: 0 auto;
    padding: 1rem 2rem;
    position: sticky;
    top: 0;
    z-index: 3;
-   background-color: black;
+   background-color:black;
   }
   nav{
  
@@ -33,6 +33,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+   
   }
 
   nav ul div.items{

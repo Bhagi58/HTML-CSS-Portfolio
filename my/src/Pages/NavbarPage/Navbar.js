@@ -16,10 +16,10 @@ export default function Navbar() {
          <ul>
            
             <div class="items">
-               <li><a href="#">HOME</a></li>
-               <li><a href="#">ABOUT</a></li>
-               <li><a href="#">SKILLS</a></li>
-               <li><a href="#">ACADEMICS</a></li>
+               <li><a href="/home">HOME</a></li>
+               <li><a href="/about">ABOUT</a></li>
+               <li><a href="skills">SKILLS</a></li>
+               <li><a href="/academics">ACADEMICS</a></li>
             </div>
         
          </ul>
