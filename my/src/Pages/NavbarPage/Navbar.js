@@ -16,10 +16,10 @@ export default function Navbar() {
          <ul>
            
             <div class="items">
-               <li><a href="/home">HOME</a></li>
-               <li><a href="/about">ABOUT</a></li>
+               <li><a href="home">HOME</a></li>
+               <li><a href="about">ABOUT</a></li>
                <li><a href="skills">SKILLS</a></li>
-               <li><a href="/academics">ACADEMICS</a></li>
+               <li><a href="academics">ACADEMICS</a></li>
             </div>
         
          </ul>
@@ -28,7 +28,7 @@ export default function Navbar() {
          <ul>
            
             <div className="items-2">
-               <li><a href="#">CONTACT</a></li>
+               <li><a href="contact">CONTACT</a></li>
             
             </div>
         
